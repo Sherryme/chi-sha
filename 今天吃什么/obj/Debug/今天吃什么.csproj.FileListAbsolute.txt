@@ -1,0 +1,28 @@
+C:\Users\Founder\Desktop\今天吃什么\今天吃什么\bin\Debug\今天吃什么.exe.config
+C:\Users\Founder\Desktop\今天吃什么\今天吃什么\bin\Debug\今天吃什么.exe
+C:\Users\Founder\Desktop\今天吃什么\今天吃什么\bin\Debug\今天吃什么.pdb
+C:\Users\Founder\Desktop\今天吃什么\今天吃什么\obj\Debug\今天吃什么.csprojResolveAssemblyReference.cache
+C:\Users\Founder\Desktop\今天吃什么\今天吃什么\obj\Debug\今天吃什么.Form1.resources
+C:\Users\Founder\Desktop\今天吃什么\今天吃什么\obj\Debug\今天吃什么.Properties.Resources.resources
+C:\Users\Founder\Desktop\今天吃什么\今天吃什么\obj\Debug\今天吃什么.csproj.GenerateResource.Cache
+C:\Users\Founder\Desktop\今天吃什么\今天吃什么\obj\Debug\今天吃什么.exe
+C:\Users\Founder\Desktop\今天吃什么\今天吃什么\obj\Debug\今天吃什么.pdb
+F:\C#作业\今天吃什么\今天吃什么\bin\Debug\今天吃什么.exe.config
+F:\C#作业\今天吃什么\今天吃什么\obj\Debug\今天吃什么.exe
+F:\C#作业\今天吃什么\今天吃什么\obj\Debug\今天吃什么.pdb
+F:\C#作业\今天吃什么\今天吃什么\bin\Debug\今天吃什么.exe
+F:\C#作业\今天吃什么\今天吃什么\bin\Debug\今天吃什么.pdb
+F:\C#作业\今天吃什么\今天吃什么\obj\Debug\今天吃什么.csprojResolveAssemblyReference.cache
+F:\C#作业\今天吃什么\今天吃什么\obj\Debug\今天吃什么.Form1.resources
+F:\C#作业\今天吃什么\今天吃什么\obj\Debug\今天吃什么.Properties.Resources.resources
+F:\C#作业\今天吃什么\今天吃什么\obj\Debug\今天吃什么.csproj.GenerateResource.Cache
+F:\C# Visual\实验田\今天吃什么\今天吃什么\bin\Debug\今天吃什么.exe.config
+F:\C# Visual\实验田\今天吃什么\今天吃什么\bin\Debug\今天吃什么.exe
+F:\C# Visual\实验田\今天吃什么\今天吃什么\bin\Debug\今天吃什么.pdb
+F:\C# Visual\实验田\今天吃什么\今天吃什么\bin\Debug\CSkin.dll
+F:\C# Visual\实验田\今天吃什么\今天吃什么\bin\Debug\CSkin.xml
+F:\C# Visual\实验田\今天吃什么\今天吃什么\obj\Debug\今天吃什么.What2Eat.resources
+F:\C# Visual\实验田\今天吃什么\今天吃什么\obj\Debug\今天吃什么.Properties.Resources.resources
+F:\C# Visual\实验田\今天吃什么\今天吃什么\obj\Debug\今天吃什么.csproj.GenerateResource.Cache
+F:\C# Visual\实验田\今天吃什么\今天吃什么\obj\Debug\今天吃什么.exe
+F:\C# Visual\实验田\今天吃什么\今天吃什么\obj\Debug\今天吃什么.pdb
