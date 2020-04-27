@@ -1,4 +1,4 @@
-# what-2-eat
+# 今天吃什么
 What to eat today?use what 2 eat and get the answer.
 
 不知道今天吃什么?试试 今天吃什么 吧!
